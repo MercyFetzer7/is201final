@@ -1,0 +1,42 @@
+#imagedescription {
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+}
+
+.photo {
+    width: 500px;
+    height: auto;
+}
+
+body{
+    background-color:thistle;
+}
+ 
+#title{
+    color: darkmagenta;
+}
+
+#anchor{
+    text-align: center;
+}
+
+#video{
+    text-align: center;
+    color: green;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+
+ol{
+    list-style-position: inside;
+}
+
+h2{
+    text-align: center;
+    color:hotpink;
+}
+ 
